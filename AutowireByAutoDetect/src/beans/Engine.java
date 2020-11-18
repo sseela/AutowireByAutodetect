@@ -3,6 +3,9 @@ package beans;
 public class Engine {
 	private int model;
 
+	/*public Engine(int model) {
+		this.model = model;
+	}*/
 	public int getModel() {
 		return model;
 	}
